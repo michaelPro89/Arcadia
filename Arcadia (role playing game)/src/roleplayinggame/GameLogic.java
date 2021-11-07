@@ -1,10 +1,10 @@
-
 package roleplayinggame;
 
-/**
- *
- * @author Michal Switala
- */
+/*
+* @author Michal Switala
+* Copyright © 2021 belongs solely to Michal Switala. 
+* You can reach me out on : https://github.com/michaelPro89
+*/
 public class GameLogic 
 {
          private boolean newGame;
