@@ -1,11 +1,9 @@
 package roleplayinggame;
-
-/**
- * ***************************************************************
- * Author: Michael Switala Date: 2018/06/16 Version: ... write it later ...
- * References:  *
- ***************************************************************
- */
+/*
+* @author Michal Switala
+* Copyright © 2021 belongs solely to Michal Switala. 
+* You can reach me out on : https://github.com/michaelPro89
+*/
 import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 import java.awt.*;
