@@ -1,17 +1,13 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package roleplayinggame;
 
 import java.security.SecureRandom;
 import java.util.ArrayList;
 
-/**
- *
- * @author mikemike
- */
+/*
+* @author Michal Switala
+* Copyright © 2021 belongs solely to Michal Switala. 
+* You can reach me out on : https://github.com/michaelPro89
+*/
 public class FightMode 
 {
     
